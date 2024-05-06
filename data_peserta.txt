@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Arfan Zaky Hifdillah
+2. Email: arfanzaky10@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: https://github.com/ArfanZaky
+5. Akun Telegram: t.me/Kuroshagii
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : BE
+7. Umur:25
+8. Pernah menggunakan Go? : Pernah 
+9. Bahasa Pemrograman yg pernah dipelajari: php, js
+10. Pernah membuat REST API? : pernah
